@@ -19,7 +19,7 @@ public class LoginElements {
 		PageFactory.initElements(idriver, this);
 		
 	}
-	
+	//check
 	@FindBy(partialLinkText="Login")
 	WebElement loginclicked;
 	
