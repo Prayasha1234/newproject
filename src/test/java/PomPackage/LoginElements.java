@@ -113,6 +113,7 @@ Thread.sleep(5000);
 	{
 		category.click();
 	}
+	//checkallcheckbox
 	public void selectcheck()
 	{
 		checkedall.click();
